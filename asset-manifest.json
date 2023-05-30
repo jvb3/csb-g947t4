@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "https://jvb3.github.io/csb-g947t4/static/css/main.40ead8de.css",
+    "main.js": "https://jvb3.github.io/csb-g947t4/static/js/main.d5788848.js",
+    "index.html": "https://jvb3.github.io/csb-g947t4/index.html",
+    "main.40ead8de.css.map": "https://jvb3.github.io/csb-g947t4/static/css/main.40ead8de.css.map",
+    "main.d5788848.js.map": "https://jvb3.github.io/csb-g947t4/static/js/main.d5788848.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.40ead8de.css",
+    "static/js/main.d5788848.js"
+  ]
+}
